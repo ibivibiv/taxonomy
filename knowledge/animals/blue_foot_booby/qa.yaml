@@ -1,0 +1,70 @@
+created_by: Harold
+seed_examples:
+- question: What is the primary diet of the blue-footed booby?
+  answer: The primary diet of the blue-footed booby consists of small schooling fish
+    such as sardines, anchovies, mackerel, and flying fish.
+- question: Why are blue-footed boobies known as "clumsy" on land?
+  answer: Blue-footed boobies are known as "clumsy" on land because, like other seabirds,
+    they are awkward and clumsy when moving on land.
+- question: How does asynchronous hatching impact sibling competition in blue-footed
+    boobies?
+  answer: Asynchronous hatching in blue-footed boobies leads to growth inequality
+    and size disparity between siblings, which can result in facultative siblicide
+    during times of food scarcity.
+- question: What role does the blue coloration of the booby's feet play in its
+    reproductive behavior?
+  answer: The blue coloration of the booby's feet plays a role in courtship rituals
+    and breeding, with males displaying their blue feet as part of an elaborate mating
+    ritual to attract mates.
+- question: What factors influence the foot coloration of blue-footed boobies?
+  answer: The foot coloration of blue-footed boobies is influenced by the alignment
+    of collagens in the skin modified by carotenoid pigments obtained from their diet
+    of fresh fish.
+- question: What age do blue-footed boobies typically begin breeding?
+  answer: Females typically start breeding when they are 1 to 6 years old, while males
+    start breeding when they are 2 to 6 years old.
+- question: How do male blue-footed boobies adjust their investment in the brood
+    according to their partner's condition?
+  answer: Male blue-footed boobies adjust their investment in the brood based on their
+    partner's condition by providing higher attentiveness and parental care to offspring
+    from females with larger and brighter eggs.
+- question: How do blue-footed boobies plunge dive for fish?
+  answer: Blue-footed boobies plunge dive for fish by diving into the ocean after
+    prey, sometimes from great heights, reaching speeds of around 97 km/h and depths
+    of up to 25 meters below the water surface.
+- question: What are the two recognized subspecies of the blue-footed booby?
+  answer: "The two recognized subspecies of the blue-footed booby are Sula nebouxii\
+    \ nebouxii, found along the Pacific coast of Southern and Middle America, and\
+    \ Sula nebouxii excisa, found on the Gal\xE1pagos Islands."
+- question: How does the habitat of the blue-footed booby impact its hunting
+    strategy?
+  answer: The habitat of the blue-footed booby, which is strictly marine, influences
+    its hunting strategy as they hunt for fish by diving into the ocean and swimming
+    underwater in pursuit of prey.
+- question: What does the term "siblicide" refer to in the context of blue-footed
+    booby reproduction?
+  answer: In the context of blue-footed booby reproduction, "siblicide" refers to
+    the behavior where stronger siblings may kill weaker siblings, especially during
+    times of food scarcity due to asynchronous hatching.
+- question: Why are young blue-footed boobies more likely to have a high-quality
+    nest?
+  answer: Young blue-footed boobies are more likely to have a high-quality nest because
+    of limited natal dispersal, which allows them to stay close to their parents'
+    successful nesting sites, ensuring a better chance of reproductive success.
+- question: How do researchers use changes in blue-footed booby's foot color
+    to measure their health condition?
+  answer: Researchers use changes in blue-footed booby's foot color as an indicator
+    of their health condition, with brighter feet signaling higher fertility and better
+    paternal care abilities, influenced by carotenoid pigments obtained from their
+    diet.
+- question: What is the potential evolutionary benefit of practicing limited
+    natal dispersal in blue-footed boobies?
+  answer: The potential evolutionary benefit of practicing limited natal dispersal
+    in blue-footed boobies is that it increases the likelihood of offspring having
+    high-quality nest sites, as they remain close to successful parental nesting areas.
+- question: How do blue-footed boobies use their wings differently from other
+    bird species when hunting?
+  answer: Blue-footed boobies use their wings to plunge dive into the water for hunting,
+    diving from heights of up to 100 meters and using their wings to help them maneuver
+    underwater in pursuit of prey.
+task_description: To provide base knowledge
