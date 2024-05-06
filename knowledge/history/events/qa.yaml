@@ -1,0 +1,77 @@
+created_by: Harold
+seed_examples:
+- question: What are the primary reasons behind the 2023 SAG-AFTRA strike?
+  answer: The primary reasons behind the 2023 SAG-AFTRA strike were a lack of agreement
+    on a new contract, disagreements over streaming residuals, regulation of self-tape
+    auditions, and studio usage of artificial intelligence to digitally generate performances.
+- question: How long did the 2023 SAG-AFTRA strike last?
+  answer: The 2023 SAG-AFTRA strike lasted from July 14 to November 9, totaling 3
+    months and 26 days or 118 days.
+- question: Who were the two major parties involved in the 2023 SAG-AFTRA strike?
+  answer: "The two major parties involved in the 2023 SAG-AFTRA strike were SAG-AFTRA\
+    \ (Screen Actors Guild \u2013 American Federation of Television and Radio Artists)\
+    \ and the Alliance of Motion Picture and Television Producers (AMPTP)."
+- question: When was the last SAG-AFTRA strike that lasted for more than 100 days?
+  answer: The last SAG-AFTRA strike that lasted for more than 100 days was the 2023
+    strike, which went on for 118 days.
+- question: What factors contributed to the tension between SAG-AFTRA and the
+    AMPTP in 2023?
+  answer: Tension between SAG-AFTRA and the AMPTP in 2023 was primarily fueled by
+    disagreements over streaming residuals, the regulation of self-tape auditions,
+    and concerns about the use of artificial intelligence in the industry.
+- question: How did the strike by the Writers Guild of America affect the duration
+    of the 2023 SAG-AFTRA strike?
+  answer: The strike by the Writers Guild of America impacted the duration of the
+    2023 SAG-AFTRA strike by collectively contributing to the biggest interruption
+    to the American film and television industries since the COVID-19 pandemic in
+    2020.
+- question: What role did artificial intelligence play in the SAG-AFTRA strike
+    of 2023?
+  answer: Artificial intelligence played a significant role in the SAG-AFTRA strike
+    as there were concerns about studios using AI to scan actors' faces to generate
+    performances digitally, potentially replacing actors on set without proper compensation.
+- question: Who are the primary workers impacted by the 2023 SAG-AFTRA strike?
+  answer: The primary workers impacted by the 2023 SAG-AFTRA strike included below-the-line
+    workers who faced financial struggles, had to sell or mortgage their homes, and
+    deplete their savings to survive during the strike period.
+- question: When did the negotiations between SAG-AFTRA and the AMPTP for a new
+    contract break down in the SAG-AFTRA strike of 2023?
+  answer: The negotiations between SAG-AFTRA and the AMPTP for a new contract broke
+    down in July 2023, leading to the initiation of the strike.
+- question: How did SAG-AFTRA propose to address the issues related to self-tape
+    auditions?
+  answer: SAG-AFTRA proposed greater regulation of self-tape auditions as one of the
+    key demands during negotiations to address concerns within the industry.
+- question: What were the immediate goals of the 2023 SAG-AFTRA strike?
+  answer: The immediate goals of the 2023 SAG-AFTRA strike were the ratification of
+    a new labor contract, a fair streaming service residual formula, increased regulation
+    of self-tape auditions, and preventing AI from replacing actors on set.
+- question: How was the 2023 SAG-AFTRA strike different from the previous actors
+    strikes?
+  answer: The 2023 SAG-AFTRA strike was different from previous actors strikes as
+    it marked the first time actors initiated a labor dispute in the U.S. since the
+    1980 actors strike and the first time actors and writers walked out simultaneously
+    since 1960.
+- question: What changes did SAG-AFTRA demand regarding the streaming service
+    residual formula?
+  answer: SAG-AFTRA demanded changes to the streaming service residual formula to
+    ensure fair compensation for actors as the industry shifted more towards streaming
+    platforms.
+- question: When did the 2023 SAG-AFTRA strike officially begin?
+  answer: The 2023 SAG-AFTRA strike officially began at midnight on July 14.
+- question: How did the AMPTP respond to SAG-AFTRA's concerns about the use of
+    AI?
+  answer: The AMPTP responded to SAG-AFTRA's concerns about the use of AI by denying
+    claims that studios wanted indefinite rights to extras' likenesses for generative
+    AI use without consent or further compensation.
+- question: What impact did the 2023 SAG-AFTRA strike have on the industry and
+    the economy?
+  answer: The 2023 SAG-AFTRA strike, along with the Writers Guild of America strike,
+    resulted in the loss of 45,000 jobs and an estimated $6.5 billion loss to the
+    economy of Southern California, causing significant disruptions to the American
+    film and television industries.
+- question: How was the SAG-AFTRA strike resolved?
+  answer: The SAG-AFTRA strike was resolved with a tentative agreement reached on
+    November 8, 2023, and the contract being officially ratified by the membership
+    on December 5, 2023.
+task_description: To provide base knowledge
