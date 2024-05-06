@@ -1,0 +1,90 @@
+created_by: Harold
+seed_examples:
+- question: What is the primary advantage of the Baltimore classification system?
+  answer: The primary advantage of the Baltimore classification system is that it
+    allows viruses that behave similarly to be studied as distinct groups by classifying
+    them based on their manner of mRNA synthesis.
+- question: How many Baltimore groups are there?
+  answer: There are seven Baltimore groups numbered with Roman numerals.
+- question: What is the primary characteristic that separates dsDNA viruses from
+    ssDNA viruses?
+  answer: The primary characteristic that separates dsDNA viruses from ssDNA viruses
+    is the strandedness of the genome, where dsDNA viruses have a double-stranded
+    genome while ssDNA viruses have a single-stranded genome.
+- question: What are the three mechanisms by which dsDNA viruses replicate their
+    genome?
+  answer: The three mechanisms by which dsDNA viruses replicate their genome are bidirectional
+    replication, rolling circle replication, and strand displacement.
+- question: How do dsDNA viruses that replicate in the nucleus differ from those
+    that replicate in the cytoplasm?
+  answer: dsDNA viruses that replicate in the nucleus are relatively dependent on
+    host cell machinery for transcription and replication, while those that replicate
+    in the cytoplasm have evolved or acquired their own means of executing transcription
+    and replication.
+- question: What is the primary difference between dsDNA viruses and dsRNA viruses?
+  answer: The primary difference between dsDNA viruses and dsRNA viruses is the composition
+    of their genomes, with dsDNA viruses having a deoxyribonucleic acid genome and
+    dsRNA viruses having a ribonucleic acid genome.
+- question: How do ssDNA viruses replicate their genome?
+  answer: ssDNA viruses replicate their genome by first converting the single-stranded
+    genome into a double-stranded form upon entering a host cell, followed by mRNA
+    synthesis from the double-stranded form.
+- question: What is the primary difference between positive sense and negative
+    sense ssRNA viruses?
+  answer: The primary difference between positive sense and negative sense ssRNA viruses
+    is the orientation of their single-stranded RNA genome, with positive sense viruses
+    having a genome that can be directly translated by host machinery and negative
+    sense viruses requiring complementary strand synthesis.
+- question: How do parvoviruses replicate their linear ssDNA genome?
+  answer: Parvoviruses replicate their linear ssDNA genome via rolling hairpin replication
+    (RHR), where hairpin loops at each end of the genome unfold and refold during
+    replication to change the direction of DNA synthesis.
+- question: What is the primary characteristic that separates ssDNA viruses from
+    dsDNA viruses?
+  answer: The primary characteristic that separates ssDNA viruses from dsDNA viruses
+    is the composition of their genomes, with ssDNA viruses having a single-stranded
+    genome and dsDNA viruses having a double-stranded genome.
+- question: What is the primary difference between dsRNA viruses and +ssRNA viruses?
+  answer: The primary difference between dsRNA viruses and +ssRNA viruses is the sense
+    of their RNA genome, with dsRNA viruses having a double-stranded RNA genome and
+    +ssRNA viruses having a positive sense single-stranded RNA genome.
+- question: How do dsRNA viruses replicate their genome?
+  answer: dsRNA viruses replicate their genome by transcribing mRNA from the negative
+    strand of the double-stranded RNA genome using the viral RNA-dependent RNA polymerase.
+- question: What is the primary difference between +ssRNA viruses and -ssRNA
+    viruses?
+  answer: The primary difference between +ssRNA viruses and -ssRNA viruses is the
+    orientation of their single-stranded RNA genome, with +ssRNA viruses having a
+    genome that can be directly translated and -ssRNA viruses having a genome that
+    needs to be complemented before translation.
+- question: How do +ssRNA viruses replicate their genome?
+  answer: +ssRNA viruses replicate their genome by directly using their positive-sense
+    RNA genome as a template for translation and replication.
+- question: What is the primary difference between dsRNA viruses and +ssRNA viruses?
+  answer: The primary difference between dsRNA viruses and +ssRNA viruses is the composition
+    of their genomes, with dsRNA viruses having a double-stranded RNA genome and +ssRNA
+    viruses having a positive sense single-stranded RNA genome.
+- question: How do +ssRNA viruses replicate their genome?
+  answer: +ssRNA viruses replicate their genome by using their positive-sense RNA
+    genome directly as a template for both translation and replication.
+- question: What is the primary difference between +ssRNA viruses and -ssRNA
+    viruses?
+  answer: The primary difference between +ssRNA viruses and -ssRNA viruses is the
+    orientation of their single-stranded RNA genome, with +ssRNA viruses having a
+    genome that can be directly translated and -ssRNA viruses having a genome that
+    needs complementary strand synthesis before translation.
+- question: How do -ssRNA viruses replicate their genome?
+  answer: -ssRNA viruses replicate their genome by first using their negative-sense
+    RNA genome as a template to synthesize a complementary positive-sense RNA strand
+    for translation and replication.
+- question: What is the primary difference between +ssRNA viruses and -ssRNA
+    viruses?
+  answer: The primary difference between +ssRNA viruses and -ssRNA viruses is the
+    orientation of their single-stranded RNA genome, with +ssRNA viruses having a
+    genome that can be directly translated and -ssRNA viruses needing complementary
+    strand synthesis before translation.
+- question: How do -ssRNA viruses replicate their genome?
+  answer: -ssRNA viruses replicate their genome by using their negative-sense RNA
+    genome as a template to synthesize a complementary positive-sense RNA strand,
+    which is then used for translation and replication processes.
+task_description: To provide base knowledge
