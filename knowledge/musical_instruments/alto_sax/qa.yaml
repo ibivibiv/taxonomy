@@ -1,0 +1,36 @@
+created_by: Harold
+seed_examples:
+- question: What is the primary use of the alto saxophone?
+  answer: The alto saxophone is commonly used in popular music, concert bands, chamber
+    music, solo repertoire, military bands, marching bands, pep bands, carnatic music,
+    and jazz.
+- question: Who invented the saxophone?
+  answer: The saxophone was invented by Belgian instrument designer Adolphe Sax in
+    the 1840s and patented in 1846.
+- question: In which key is the alto saxophone pitched?
+  answer: "The alto saxophone is pitched in the key of E\u266D."
+- question: Which notable jazz musicians are known for playing the alto saxophone?
+  answer: Notable jazz alto saxophonists include Charlie Parker, Cannonball Adderley,
+    Johnny Hodges, Sonny Stitt, Paul Desmond, Benny Carter, Ornette Coleman, and many
+    more.
+- question: What is the range of the alto saxophone?
+  answer: "The alto saxophone's written range is B\u266D3 to F6 (or F\u266F6), with\
+    \ the higher altissimo register starting at F\u266F6 (or G6)."
+- question: Who are some influential classical soloists for the alto saxophone?
+  answer: Some influential classical alto saxophonists include Tim McAllister, Jean-Yves
+    Fourmeau, Lawrence Gwozdz, Donald Sinta, Harvey Pittel, and more.
+- question: What is the purpose of the "altissimo" register on the alto saxophone?
+  answer: The altissimo register on the alto saxophone allows advanced players to
+    access higher notes beyond the instrument's standard range.
+- question: How does the alto saxophone sound in terms of concert pitches?
+  answer: The alto saxophone sounds a major sixth lower than written in terms of concert
+    pitches.
+- question: What are some compositions where the alto saxophone has a prominent
+    role in orchestral music?
+  answer: The alto saxophone is featured in compositions by composers like George
+    Gershwin, Maurice Ravel, Sergei Rachmaninoff, and more in orchestral music.
+- question: How does the alto saxophone's range differ from other saxophones?
+  answer: "The alto saxophone has a range that typically goes from B\u266D3 to F6\
+    \ (or F\u266F6), with altissimo notes possible, making it larger than soprano\
+    \ saxophones but smaller than tenor and baritone saxophones."
+task_description: To provide base knowledge
