@@ -1,0 +1,60 @@
+created_by: Harold
+seed_examples:
+- question: What are the differences between the black rhinoceros and the white rhinoceros?
+  answer: The black rhinoceros can be distinguished from the white rhinoceros by its
+    size, smaller skull, and ears; and by the position of the head, which is held
+    higher than the white rhinoceros. Additionally, the black rhinoceros has a pointed
+    and prehensile upper lip for grasping leaves and twigs, while the white rhinoceros
+    has square lips for eating grass.
+- question: How did the black rhinoceros get its name?
+  answer: The black rhinoceros was first named Rhinoceros bicornis by Carl Linnaeus
+    in 1758. The name means "double-horned rhinoceros." There was some confusion in
+    the naming process, as the species was initially based on a single-horned Indian
+    rhinoceros skull, with a second horn artificially added by the collector.
+- question: What factors have led to the black rhinoceros being classified as
+    critically endangered?
+  answer: The black rhinoceros is classified as critically endangered due to multiple
+    factors, including poaching for its horn, habitat reduction, and human-wildlife
+    conflicts. The species faces significant threats to its survival, leading to a
+    drastic decline in its population.
+- question: What are the subspecies of the black rhinoceros?
+  answer: "The subspecies of the black rhinoceros include:\n   - Southern black rhinoceros\n\
+    \   - North-eastern black rhinoceros\n   - Chobe black rhinoceros\n   - Uganda\
+    \ black rhinoceros\n   - Western black rhinoceros\n   - Eastern black rhinoceros\n\
+    \   - South-central black rhinoceros\n   - South-western black rhinoceros"
+- question: What is the primary method of communication for the black rhinoceros?
+  answer: The black rhinoceros primarily relies on its sense of smell and hearing
+    for communication. They have a wide rotational range in their ears to detect sounds,
+    and an excellent sense of smell to alert them to the presence of predators.
+- question: What is the diet of the black rhinoceros?
+  answer: The black rhinoceros is a browser, meaning it feeds on leaves, twigs, branches,
+    and fruits. Their pointed and prehensile upper lip helps them grasp vegetation
+    while feeding. They do not graze on grass like the white rhinoceros.
+- question: Why are some experts advocating for the reclassification of the southern
+    black rhinoceros into its own subspecies?
+  answer: Some experts advocate for the reclassification of the southern black rhinoceros
+    into its own subspecies due to its distinct characteristics, historical distribution,
+    and genetic differences from other subspecies. This reclassification would help
+    in better conservation efforts and understanding of the species.
+- question: How did the eastern black rhinoceros evolve?
+  answer: The eastern black rhinoceros evolved from its direct ancestor, Diceros praecox,
+    during the Late Pliocene to Early Pleistocene period. It had a historical distribution
+    across South Sudan, Uganda, Ethiopia, Kenya, and Tanzania, with its current range
+    limited primarily to Kenya, Rwanda, and Tanzania.
+- question: What is the difference between Diceros bicornis and Diceros praecox?
+  answer: Diceros praecox is the direct ancestor of Diceros bicornis. Diceros praecox
+    was present in the Pliocene of East Africa, and Diceros bicornis evolved from
+    this species during the Late Pliocene to Early Pleistocene period. The evolution
+    of Diceros bicornis marked the divergence of the black rhinoceros from the white
+    rhinoceros.
+- question: What are the primary threats to the black rhinoceros' survival?
+  answer: The primary threats to the black rhinoceros' survival include poaching for
+    its horn, habitat destruction, human-wildlife conflicts, and overall reduction
+    in suitable habitats. These threats have led to a significant decline in the black
+    rhinoceros population, making it critically endangered.
+- question: How do the senses of the black rhinoceros contribute to its survival?
+  answer: The senses of the black rhinoceros, including good eyesight, excellent sense
+    of smell, and wide rotational range in their ears to detect sounds, contribute
+    to their survival by helping them detect predators, locate food sources, and navigate
+    their environment effectively.
+task_description: To provide base knowledge
